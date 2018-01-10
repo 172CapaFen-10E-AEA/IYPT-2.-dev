@@ -12,3 +12,4 @@ Bir adet orta boy mercek ile sınıf içerisinde güneşli bir günde camdan gel
 # Bulgular (Results)
 Başlangıç projesi olarak benzerlik göstersin diye yaptığımız bu proje diğer yapacağımıza göre çok daha kolay. Ana deneyimizin çok daha zor olacağını tahmin ediyoruz ancak buradan çıkardığımız sonuç güneş ışınları çok az da gelse büyütülerek yanıcı yüzeyler üzerinde çok büyük hasar açığa çıkarabiliyor.
 # Sonuç ve Tartışma (Conclusion and Discussion) 
+Souçta yaptığımız deneyde ışığı mercekle bir notada topladık yani güneşten gelen ısı ve ışık enerjisi bir noktada toplandı böylece mercek tuttuğumuz kağıtın ışık tutulan bölgesi ısındı bir süre sonra yanma olayı gerçekleşti. Böylece anladık ki mercek görevi gören ışığı bir yerde toplayan bir cisim yardımı ile maddeleri ısıtabilir ve hatta yakabiliriz.
